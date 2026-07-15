@@ -1,4 +1,4 @@
-## EthValidate
+### EthValidate
 This tool is to validate transaction, address and token balance from public ethereum nodes
 
 # Usage
